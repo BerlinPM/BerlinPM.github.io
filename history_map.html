@@ -1,0 +1,49 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"> <!-- -*-html-*- -->
+<html>
+ <head>
+ <title>BBBike &amp; Leaflet</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+ <meta name="keywords" content="bbbike leaflet" />
+ <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+ <meta name="msapplication-config" content="none" />
+
+ <!-- Leaflet -->
+ <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+ <!--[if lte IE 8]><link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.ie.css" /><![endif]-->
+ <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+
+ <!-- BBBike and Leaflet -->
+ <script src="http://bbbike.de/BBBike/html/HTTPQuery.js" type="text/javascript"></script>
+ <script src="http://bbbike.de/BBBike/html/json2.min.js" type="text/javascript"></script>
+ <script src="http://bbbike.de/BBBike/html/scrollarray.js" type="text/javascript"></script>
+ <script src="http://bbbike.de/BBBike/html/sprintf.js" type="text/javascript"></script>
+ <link rel="stylesheet" href="http://bbbike.de/BBBike/html/bbbikeleaflet.css?v=1.1" />
+ <link rel="shortcut icon" href="http://bbbike.de/BBBike/images/bbbike_leaflet_16.png" type="image/png" />
+
+ <link rel="apple-touch-icon" href="http://bbbike.de/BBBike/images/bbbike_leaflet_57.png" />
+
+ <script type="text/javascript"><!--
+  // magic comments for bbbikeleaflet.cgi following, do not change
+  var initialRouteGeojson = null;
+  var initialGeojson = null;
+  //--- INSERT GEOJSON HERE ---
+  var enable_upload = false;
+  var enable_accel = false;
+  var use_osm_de_map = false;
+  var show_feature_list = false;
+  //--- INSERT DEVEL CODE HERE ---
+enable_upload  = false;
+enable_accel   = false;
+use_osm_de_map = false;
+show_feature_list = true;
+ //--></script>
+ <script src="http://bbbike.de/BBBike/html/bbbikeleaflet.js?v=1.6" type="text/javascript"></script>
+
+<script>function geoJsonResponse(geoJson) { initialGeojson = geoJson }</script>
+<script type="application/javascript" src="javascripts/berlin-pm.geojsonp"></script>
+</head>
+<body onload="doLeaflet();">
+ <div id="list" style="float:left; overflow:hidden; visibility:hidden;"></div>
+ <div id="map"></div>
+</body>
+</html>
