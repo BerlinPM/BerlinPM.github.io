@@ -2197,6 +2197,20 @@ geoJsonResponse({
             "name" : "2015-06-24 : Schleusenkrug : am Landwehrkanal : Tiergarten : 8"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.4658276",
+               "52.55396162"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2015-07-29 : Strandbad Weissensee : Pankow : x"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
