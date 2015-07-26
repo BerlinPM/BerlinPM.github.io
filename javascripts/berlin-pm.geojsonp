@@ -2201,14 +2201,14 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.4658276",
-               "52.55396162"
+               "13.465827",
+               "52.553961"
             ],
             "type" : "Point"
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2015-07-29 : Strandbad Weissensee : Pankow : x"
+            "name" : "2015-07-29 : Strandbad Wei\u00dfensee : Berliner Allee 155 : Wei\u00dfensee : "
          },
          "type" : "Feature"
       }
