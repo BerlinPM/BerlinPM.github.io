@@ -3,6 +3,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.441393",
+               "52.517589"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2015-08-26 : James June Sommergarten : Karl-Marx-Allee 93 : Friedrichshain : x"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.465827",
                "52.553961"
             ],
