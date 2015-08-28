@@ -10,7 +10,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2015-08-26 : James June Sommergarten : Karl-Marx-Allee 93 : Friedrichshain : x"
+            "name" : "2015-08-26 : James June Sommergarten : Karl-Marx-Allee 93 : Friedrichshain : 11"
          },
          "type" : "Feature"
       },
