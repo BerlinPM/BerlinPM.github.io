@@ -1768,7 +1768,7 @@ geoJsonResponse({
          "geometry" : {
             "coordinates" : [
                "13.412995",
-               "52.497701"
+               "52.497601"
             ],
             "type" : "Point"
          },
@@ -2138,7 +2138,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2002-11-?? : Tante Elli : L\u00fcderitzstr. 5 : Wedding : "
+            "name" : "2002-11-27 : Tante Elli : L\u00fcderitzstr. 5 : Wedding : "
          },
          "type" : "Feature"
       },
