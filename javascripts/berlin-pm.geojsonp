@@ -3,6 +3,34 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.391503",
+               "52.526051"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2016-01-06 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : x"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.468645",
+               "52.51117"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2015-11-25 : Café Schmitts : Oderstr. 8 : Friedrichshain : x"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.412995",
                "52.497601"
             ],
