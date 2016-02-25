@@ -3,6 +3,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.33973",
+               "52.47549"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2016-02-25 : Trattoria del Corso : Hauptstr. 70 : Friedenau : 8"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.4159",
                "52.51408"
             ],
