@@ -3,6 +3,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.45475",
+               "52.47257&"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2016-04-27 : Flammerie  Hugo Ball : Saalestr. 38 : Neuk&ouml;lln : x"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.508606",
                "52.526679"
             ],
