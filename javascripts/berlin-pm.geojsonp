@@ -52,7 +52,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2016-01-27 : Marinenaus : M\u00e4rkisches Ufer 50 : Mitte : 11"
+            "name" : "2016-01-27 : Marinehaus : M\u00e4rkisches Ufer 50 : Mitte : 11"
          },
          "type" : "Feature"
       },
