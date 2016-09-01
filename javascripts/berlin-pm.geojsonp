@@ -3,6 +3,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.410031",
+               "52.539821"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2016-08-31 : Prater : Kastanienallee 7 : Prenzlauer Berg : 15"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.43166",
                "52.50076"
             ],
