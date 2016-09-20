@@ -3,6 +3,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.416118",
+               "52.503776"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2016-09-28 : Zur kleinen Markthalle : Legiendamm 32 : Kreuzberg : xx"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.410031",
                "52.539821"
             ],
