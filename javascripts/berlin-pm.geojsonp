@@ -10,7 +10,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2016-09-28 : Zur kleinen Markthalle : Legiendamm 32 : Kreuzberg : xx"
+            "name" : "2016-09-28 : Zur kleinen Markthalle : Legiendamm 32 : Kreuzberg : 7"
          },
          "type" : "Feature"
       },
