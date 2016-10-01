@@ -43,7 +43,7 @@ disable_routing = true;
  //--></script>
  <script src="http://bbbike.de/BBBike/html/bbbikeleaflet.js?v=1.9" type="text/javascript"></script>
 
-<script>function geoJsonResponse(geoJson) { initialGeojson = geoJson }</script>
+<script>function geoJsonResponse(geoJson) { initialGeojson = deduplication(geoJson) }</script>
 <script type="application/javascript" src="javascripts/berlin-pm.geojsonp"></script>
 </head>
 <body onload="doLeaflet();">
