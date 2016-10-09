@@ -483,7 +483,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2014-01-26 : Schalander : B\u00e4nschstr. 91 : Friedrichshain : 10"
+            "name" : "2014-01-29 : Schalander : B\u00e4nschstr. 91 : Friedrichshain : 10"
          },
          "type" : "Feature"
       },
