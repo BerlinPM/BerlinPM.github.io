@@ -413,7 +413,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2014-06-26 : Bistro Zeus : Boxhagener Str. 29 : Friedrichshain : 8"
+            "name" : "2014-06-25 : Bistro Zeus : Boxhagener Str. 29 : Friedrichshain : 8"
          },
          "type" : "Feature"
       },
