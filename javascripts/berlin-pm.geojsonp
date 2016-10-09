@@ -1,28 +1,3 @@
-// move the location by a random small value (1-10meters), to avoid that points overlaps
-function deduplication(obj) {
-   var features = obj.features;
-   
-   // return a random number of 0..9
-   function myrand () {
-      var number = parseInt(Math.random() * 10);
-     
-      return number;
-   }
-   
-   var factor = 40000;
-   
-   for (var i = 0; i < features.length; i++) {
-      var coordinates = obj.features[i].geometry.coordinates;
-   
-      coordinates[0] =  (parseFloat(coordinates[0]) * factor +  myrand())/factor; 
-      coordinates[1] =  (parseFloat(coordinates[1]) * factor +  myrand())/factor; 
-      
-      // console.log(obj.features[i].geometry.coordinates);
-   }
-
-   return obj;
-}
-
 geoJsonResponse({
    "features" : [
       {
