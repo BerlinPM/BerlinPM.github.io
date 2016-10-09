@@ -133,7 +133,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2016-02-25 : Trattoria del Corso : Hauptstr. 70 : Friedenau : 8"
+            "name" : "2016-02-24 : Trattoria del Corso : Hauptstr. 70 : Friedenau : 8"
          },
          "type" : "Feature"
       },
