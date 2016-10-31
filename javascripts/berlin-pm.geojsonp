@@ -4,6 +4,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.414344",
+               "52.493091"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2016-10-26 : Powwow : Grimmstr. 20 : Kreuzberg : 11"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.416118",
                "52.503776"
             ],
