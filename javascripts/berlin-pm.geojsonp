@@ -2363,7 +2363,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2002-10-?? : Locus (?) : Marheinekeplatz 4 : Kreuzberg : "
+            "name" : "2002-10-30 : Locus : Marheinekeplatz 4 : Kreuzberg : "
          },
          "type" : "Feature"
       },
@@ -2377,7 +2377,21 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2002-09-?? : Caf\u00e9 Orange : Oranienburger Str. 32 : Mitte : "
+            "name" : "2002-09-25 : Caf\u00e9 Orange : Oranienburger Str. 32 : Mitte : "
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.422610",
+               "52.548172"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2002-08-28 : (?) : Wichertstr./Gudvanger Str. : Prenzlauer Berg : "
          },
          "type" : "Feature"
       },
@@ -2391,7 +2405,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2002-07-?? : Schwarzes Caf\u00e9 : Kantstr. 148 : Charlottenburg : "
+            "name" : "2002-07-31 : Schwarzes Caf\u00e9 : Kantstr. 148 : Charlottenburg : "
          },
          "type" : "Feature"
       },
