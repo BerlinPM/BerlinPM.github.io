@@ -4,8 +4,8 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.386191",
-               "52.528186"
+               "13.38736",
+               "52.52849"
             ],
             "type" : "Point"
          },
@@ -1810,8 +1810,8 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.386191",
-               "52.528186"
+               "13.38736",
+               "52.52849"
             ],
             "type" : "Point"
          },
