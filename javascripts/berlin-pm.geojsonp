@@ -4,14 +4,14 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
-               "13.4118603",
-               "52.513753"
+               "13.412187",
+               "52.513831"
             ],
             "type" : "Point"
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2017-05-31 : Deckshaus : Märkisches Ufer 34 : Mitte : 8x"
+            "name" : "2017-05-31 : Hafenrestaurant Deckshaus : M\u00e4rkisches Ufer 34 : Mitte : 12"
          },
          "type" : "Feature"
       },
