@@ -4,6 +4,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.469406",
+               "52.584534"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2017-08-30 : Caf\u00e9 am Flie\u00df : Blankenburger Pflasterweg 40 : Stadtrandsiedlung Malchow : 11"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.45829",
                "52.51356"
             ],
