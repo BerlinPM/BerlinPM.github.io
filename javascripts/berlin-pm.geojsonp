@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.43595",
+               "52.46457"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2017-09-27 : Brauhaus in Rixdorf : Glasower Str. 27 : Neuk\u00f6lln : 8"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.469406",
                "52.584534"
             ],
