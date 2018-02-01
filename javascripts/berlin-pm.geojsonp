@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.37233",
+               "52.51029"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2018-01-31 : Lindenbr\u00e4u am Potsdamer Platz : Bellevuestrasse 3-5 : Tiergarten : 12"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.39577",
                "52.53280"
             ],
