@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.336045",
+               "52.511182"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2018-05-30 : Schleusenkrug : am Landwehrkanal : Tiergarten : 9<br/>\n2015-06-24 : Schleusenkrug : am Landwehrkanal : Tiergarten : 8<br/>\n2013-04-24 : Schleusenkrug : am Landwehrkanal : Tiergarten : ~13<br/>\n2012-06-27 : Schleusenkrug : am Landwehrkanal : Tiergarten : <br/>\n2011-04-27 : Schleusenkrug : am Landwehrkanal : Tiergarten : <br/>\n2010-04-28 : Schleusenkrug : am Landwehrkanal : Tiergarten : <br/>\n2009-04-29 : Schleusenkrug : am Landwehrkanal : Tiergarten : <br/>\n2003-07-30 : Schleusenkrug : am Landwehrkanal : Tiergarten : "
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.41519",
                "52.54395"
             ],
@@ -461,20 +475,6 @@ geoJsonResponse({
          "properties" : {
             "cat" : "X",
             "name" : "2015-07-29 : Strandbad Wei\u00dfensee : Berliner Allee 155 : Wei\u00dfensee : 7"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.336045",
-               "52.511182"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2015-06-24 : Schleusenkrug : am Landwehrkanal : Tiergarten : 8<br/>\n2013-04-24 : Schleusenkrug : am Landwehrkanal : Tiergarten : ~13<br/>\n2012-06-27 : Schleusenkrug : am Landwehrkanal : Tiergarten : <br/>\n2011-04-27 : Schleusenkrug : am Landwehrkanal : Tiergarten : <br/>\n2010-04-28 : Schleusenkrug : am Landwehrkanal : Tiergarten : <br/>\n2009-04-29 : Schleusenkrug : am Landwehrkanal : Tiergarten : <br/>\n2003-07-30 : Schleusenkrug : am Landwehrkanal : Tiergarten : "
          },
          "type" : "Feature"
       },
