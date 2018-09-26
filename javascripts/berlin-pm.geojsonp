@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.412995",
+               "52.497601"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2017-09-26 : Viasko : Erkelenzdamm 49 : Kreuzberg : 9<br/>\n2017-04-26 : Viasko : Erkelenzdamm 49 : Kreuzberg : 8<br/>\n2015-10-28 : Viasko : Erkelenzdamm 49 : Kreuzberg : 11<br/>\n2014-05-28 : Viasko : Erkelenzdamm 49 : Kreuzberg : ~9<br/>\n2012-07-25 : Viasko : Erkelenzdamm 49 : Kreuzberg : <br/>\n2005-04-27 : Old Emerald Isle : Erkelenzdamm 49 : Kreuzberg : "
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.37233",
                "52.51029"
             ],
@@ -223,20 +237,6 @@ geoJsonResponse({
          "properties" : {
             "cat" : "X",
             "name" : "2017-05-31 : Hafenrestaurant Deckshaus : M\u00e4rkisches Ufer 34 : Mitte : 12"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.412995",
-               "52.497601"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2017-04-26 : Viasko : Erkelenzdamm 49 : Kreuzberg : 8<br/>\n2015-10-28 : Viasko : Erkelenzdamm 49 : Kreuzberg : 11<br/>\n2014-05-28 : Viasko : Erkelenzdamm 49 : Kreuzberg : ~9<br/>\n2012-07-25 : Viasko : Erkelenzdamm 49 : Kreuzberg : <br/>\n2005-04-27 : Old Emerald Isle : Erkelenzdamm 49 : Kreuzberg : "
          },
          "type" : "Feature"
       },
