@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.32348",
+               "52.50655"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2019-01-09 : Dicke Wirtin : Carmerstra\u00dfe 9 : Charlottenburg : 8"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.45695",
                "52.50706"
             ],
