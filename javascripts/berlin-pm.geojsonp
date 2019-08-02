@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.468645",
+               "52.51117"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2019-07-31 : Caf\u00e9 Schmitts : Oderstr. 8 : Friedrichshain : 10<br/>\n2016-05-25 : Caf\u00e9 Schmitts : Oderstr. 8 : Friedrichshain : 11<br/>\n2015-11-25 : Caf\u00e9 Schmitts : Oderstr. 8 : Friedrichshain : 10"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.410031",
                "52.539821"
             ],
@@ -489,20 +503,6 @@ geoJsonResponse({
          "properties" : {
             "cat" : "X",
             "name" : "2016-06-29 : Zollpackhof : Elisabeth-Abegg-Str. 1 : Tiergarten : 10<br/>\n2012-08-29 : Zollpackhof : Elisabeth-Abegg-Str. 1 : Tiergarten : <br/>\n2010-07-28 : Zollpackhof : Elisabeth-Abegg-Str. 1 : Tiergarten : <br/>\n2005-05-25 : Zollpackhof : Elisabeth-Abegg-Str. 1 : Tiergarten : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.468645",
-               "52.51117"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2016-05-25 : Caf\u00e9 Schmitts : Oderstr. 8 : Friedrichshain : 11<br/>\n2015-11-25 : Caf\u00e9 Schmitts : Oderstr. 8 : Friedrichshain : 10"
          },
          "type" : "Feature"
       },
