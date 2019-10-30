@@ -5,6 +5,34 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.338469",
+               "52.516775"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2019-10-29 : Tiergarten-Quelle : Bachstr. 6 (Bogen 482) : Tiergarten : 9<br/>\n2004-03-31 : Tiergarten-Quelle : Bachstr. 6 (Bogen 482) : Tiergarten : "
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.44839",
+               "52.51693"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2019-09-25 : Prager Hopfenstube : Karl-Marx-Allee 127 : Friedrichshain : ~10"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.37335",
                "52.55061"
             ],
@@ -1721,20 +1749,6 @@ geoJsonResponse({
          "properties" : {
             "cat" : "X",
             "name" : "2004-04-28 : Tiroler Alpenstadl : Wichertstr. 43 : Prenzlauer Berg : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.338469",
-               "52.516775"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2004-03-31 : Tiergarten-Quelle : Bachstr. 6 (Bogen 482) : Tiergarten : "
          },
          "type" : "Feature"
       },
