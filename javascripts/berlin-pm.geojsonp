@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.466270",
+               "52.511846"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2020-01-08 : Caf\u00e9 Leander : Jungstr. 29 : Friedrichshain : 12<br/>\n2017-01-04 : Caf\u00e9 Leander : Jungstr. 29 : Friedrichshain : 14<br/>\n2013-01-30 : Caf\u00e9 Leander : Jungstr. 29 : Friedrichshain : 11"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.396334",
                "52.531914"
             ],
@@ -447,20 +461,6 @@ geoJsonResponse({
          "properties" : {
             "cat" : "X",
             "name" : "2017-01-25 : Caf\u00e9 Orange : Oranienburger Str. 32 : Mitte : 9<br/>\n2002-09-25 : Caf\u00e9 Orange : Oranienburger Str. 32 : Mitte : <br/>\n2002-02-?? : Caf\u00e9 Orange : Oranienburger Str. 32 : Mitte : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.466270",
-               "52.511846"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2017-01-04 : Caf\u00e9 Leander : Jungstr. 29 : Friedrichshain : 14<br/>\n2013-01-30 : Caf\u00e9 Leander : Jungstr. 29 : Friedrichshain : 11"
          },
          "type" : "Feature"
       },
