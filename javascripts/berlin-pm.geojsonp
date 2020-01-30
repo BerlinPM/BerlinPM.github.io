@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.457995",
+               "52.509419"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2020-01-29 : \u0414\u0430\u0447\u0430 : Gabriel-Max-Str. 1 : Friedrichshain : 7<br/>\n2009-09-30 : \u0414\u0430\u0447\u0430 : Gabriel-Max-Str. 1 : Friedrichshain : "
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.466270",
                "52.511846"
             ],
@@ -1245,20 +1259,6 @@ geoJsonResponse({
          "properties" : {
             "cat" : "X",
             "name" : "2009-10-28 : Brechtkeller : Chausseestr. 125 : Mitte : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.457995",
-               "52.509419"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2009-09-30 : \u0414\u0430\u0447\u0430 : Gabriel-Max-Str. 1 : Friedrichshain : "
          },
          "type" : "Feature"
       },
