@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.410031",
+               "52.539821"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2020-07-29 : Prater : Kastanienallee 7 : Prenzlauer Berg : 7<br/>\n2019-06-26 : Prater : Kastanienallee 7 : Prenzlauer Berg : 7<br/>\n2016-08-31 : Prater : Kastanienallee 7 : Prenzlauer Berg : 15<br/>\n2012-05-30 : Prater : Kastanienallee 7 : Prenzlauer Berg : <br/>\n2011-08-31 : Prater : Kastanienallee 7 : Prenzlauer Berg : <br/>\n2009-07-29 : Prater : Kastanienallee 7 : Prenzlauer Berg : <br/>\n2007-08-29 : Prater : Kastanienallee 7 : Prenzlauer Berg : "
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.46092",
                "52.51126"
             ],
@@ -111,20 +125,6 @@ geoJsonResponse({
          "properties" : {
             "cat" : "X",
             "name" : "2019-07-31 : Caf\u00e9 Schmitts : Oderstr. 8 : Friedrichshain : 10<br/>\n2016-05-25 : Caf\u00e9 Schmitts : Oderstr. 8 : Friedrichshain : 11<br/>\n2015-11-25 : Caf\u00e9 Schmitts : Oderstr. 8 : Friedrichshain : 10"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.410031",
-               "52.539821"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2019-06-26 : Prater : Kastanienallee 7 : Prenzlauer Berg : 7<br/>\n2016-08-31 : Prater : Kastanienallee 7 : Prenzlauer Berg : 15<br/>\n2012-05-30 : Prater : Kastanienallee 7 : Prenzlauer Berg : <br/>\n2011-08-31 : Prater : Kastanienallee 7 : Prenzlauer Berg : <br/>\n2009-07-29 : Prater : Kastanienallee 7 : Prenzlauer Berg : <br/>\n2007-08-29 : Prater : Kastanienallee 7 : Prenzlauer Berg : "
          },
          "type" : "Feature"
       },
