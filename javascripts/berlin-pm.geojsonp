@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.39992",
+               "52.49674"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2020-10-22 : Brachvogel : Carl-Herz-Ufer 34 : Kreuzberg : 5"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.367068",
                "52.521293"
             ],
