@@ -12,7 +12,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2020-10-22 : Brachvogel : Carl-Herz-Ufer 34 : Kreuzberg : 5"
+            "name" : "<b>Brachvogel</b> : Carl-Herz-Ufer 34 : Kreuzberg<br>\n* 2020-10-22 : 5"
          },
          "type" : "Feature"
       },
@@ -26,7 +26,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2020-09-23 : Zollpackhof : Elisabeth-Abegg-Str. 1 : Tiergarten : 7<br/>\n2016-06-29 : Zollpackhof : Elisabeth-Abegg-Str. 1 : Tiergarten : 10<br/>\n2012-08-29 : Zollpackhof : Elisabeth-Abegg-Str. 1 : Tiergarten : <br/>\n2010-07-28 : Zollpackhof : Elisabeth-Abegg-Str. 1 : Tiergarten : <br/>\n2005-05-25 : Zollpackhof : Elisabeth-Abegg-Str. 1 : Tiergarten : "
+            "name" : "<b>Zollpackhof</b> : Elisabeth-Abegg-Str. 1 : Tiergarten<br>\n* 2020-09-23 : 7<br>\n* 2016-06-29 : 10<br>\n* 2012-08-29 : N/A<br>\n* 2010-07-28 : N/A<br>\n* 2005-05-25 : N/A"
          },
          "type" : "Feature"
       },
@@ -40,7 +40,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2020-08-25 : Luftgarten : Tempelhofer Feld : Neuk\u00f6lln : 5"
+            "name" : "<b>Luftgarten</b> : Tempelhofer Feld : Neuk\u00f6lln<br>\n* 2020-08-25 : 5"
          },
          "type" : "Feature"
       },
@@ -54,7 +54,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2020-07-29 : Prater : Kastanienallee 7 : Prenzlauer Berg : 7<br/>\n2019-06-26 : Prater : Kastanienallee 7 : Prenzlauer Berg : 7<br/>\n2016-08-31 : Prater : Kastanienallee 7 : Prenzlauer Berg : 15<br/>\n2012-05-30 : Prater : Kastanienallee 7 : Prenzlauer Berg : <br/>\n2011-08-31 : Prater : Kastanienallee 7 : Prenzlauer Berg : <br/>\n2009-07-29 : Prater : Kastanienallee 7 : Prenzlauer Berg : <br/>\n2007-08-29 : Prater : Kastanienallee 7 : Prenzlauer Berg : "
+            "name" : "<b>Prater</b> : Kastanienallee 7 : Prenzlauer Berg<br>\n* 2020-07-29 : 7<br>\n* 2019-06-26 : 7<br>\n* 2016-08-31 : 15<br>\n* 2012-05-30 : N/A<br>\n* 2011-08-31 : N/A<br>\n* 2009-07-29 : N/A<br>\n* 2007-08-29 : N/A"
          },
          "type" : "Feature"
       },
@@ -68,7 +68,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2020-02-26 : Kurhaus Korsakow : Gr\u00fcnberger Str. 81 : Friedrichshain : 9"
+            "name" : "<b>Kurhaus Korsakow</b> : Gr\u00fcnberger Str. 81 : Friedrichshain<br>\n* 2020-02-26 : 9"
          },
          "type" : "Feature"
       },
@@ -82,7 +82,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2020-01-29 : \u0414\u0430\u0447\u0430 : Gabriel-Max-Str. 1 : Friedrichshain : 7<br/>\n2009-09-30 : \u0414\u0430\u0447\u0430 : Gabriel-Max-Str. 1 : Friedrichshain : "
+            "name" : "<b>\u0414\u0430\u0447\u0430</b> : Gabriel-Max-Str. 1 : Friedrichshain<br>\n* 2020-01-29 : 7<br>\n* 2009-09-30 : N/A"
          },
          "type" : "Feature"
       },
@@ -96,7 +96,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2020-01-08 : Caf\u00e9 Leander : Jungstr. 29 : Friedrichshain : 12<br/>\n2017-01-04 : Caf\u00e9 Leander : Jungstr. 29 : Friedrichshain : 14<br/>\n2013-01-30 : Caf\u00e9 Leander : Jungstr. 29 : Friedrichshain : 11"
+            "name" : "<b>Caf\u00e9 Leander</b> : Jungstr. 29 : Friedrichshain<br>\n* 2020-01-08 : 12<br>\n* 2017-01-04 : 14<br>\n* 2013-01-30 : 11"
          },
          "type" : "Feature"
       },
@@ -110,7 +110,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2019-11-27 : Pap\u00e0 Pane di Sorrento : Ackerstr. 23 : Mitte : 7<br/>\n2018-02-28 : Pap\u00e0 Pane di Sorrento : Ackerstr. 23 : Mitte : 11<br/>\n2014-10-29 : Pap\u00e0 Pane di Sorrento : Ackerstr. 23 : Mitte : 10<br/>\n2012-02-29 : Pap\u00e0 Pane di Sorrento : Ackerstr. 23 : Mitte : <br/>\n2010-09-29 : Pap\u00e0 Pane di Sorrento : Ackerstr. 23 : Mitte : <br/>\n2008-03-26 : Pap\u00e0 Pane di Sorrento : Ackerstr. 23 : Mitte : "
+            "name" : "<b>Pap\u00e0 Pane di Sorrento</b> : Ackerstr. 23 : Mitte<br>\n* 2019-11-27 : 7<br>\n* 2018-02-28 : 11<br>\n* 2014-10-29 : 10<br>\n* 2012-02-29 : N/A<br>\n* 2010-09-29 : N/A<br>\n* 2008-03-26 : N/A"
          },
          "type" : "Feature"
       },
@@ -124,7 +124,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2019-10-29 : Tiergarten-Quelle : Bachstr. 6 (Bogen 482) : Tiergarten : 9<br/>\n2004-03-31 : Tiergarten-Quelle : Bachstr. 6 (Bogen 482) : Tiergarten : "
+            "name" : "<b>Tiergarten-Quelle</b> : Bachstr. 6 (Bogen 482) : Tiergarten<br>\n* 2019-10-29 : 9<br>\n* 2004-03-31 : N/A"
          },
          "type" : "Feature"
       },
@@ -138,7 +138,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2019-09-25 : Prager Hopfenstube : Karl-Marx-Allee 127 : Friedrichshain : ~10"
+            "name" : "<b>Prager Hopfenstube</b> : Karl-Marx-Allee 127 : Friedrichshain<br>\n* 2019-09-25 : ~10"
          },
          "type" : "Feature"
       },
@@ -152,7 +152,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2019-08-28 : Uferlos : Uferstr. 13 : Wedding : 10"
+            "name" : "<b>Uferlos</b> : Uferstr. 13 : Wedding<br>\n* 2019-08-28 : 10"
          },
          "type" : "Feature"
       },
@@ -166,7 +166,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2019-07-31 : Caf\u00e9 Schmitts : Oderstr. 8 : Friedrichshain : 10<br/>\n2016-05-25 : Caf\u00e9 Schmitts : Oderstr. 8 : Friedrichshain : 11<br/>\n2015-11-25 : Caf\u00e9 Schmitts : Oderstr. 8 : Friedrichshain : 10"
+            "name" : "<b>Caf\u00e9 Schmitts</b> : Oderstr. 8 : Friedrichshain<br>\n* 2019-07-31 : 10<br>\n* 2016-05-25 : 11<br>\n* 2015-11-25 : 10"
          },
          "type" : "Feature"
       },
@@ -180,7 +180,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2019-05-29 : Marjan-Grill : Flensburger Str./S-Bellevue : Hansaviertel : 13"
+            "name" : "<b>Marjan-Grill</b> : Flensburger Str./S-Bellevue : Hansaviertel<br>\n* 2019-05-29 : 13"
          },
          "type" : "Feature"
       },
@@ -194,7 +194,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2019-04-24 : Schleusenkrug : am Landwehrkanal : Tiergarten : 5<br/>\n2018-05-30 : Schleusenkrug : am Landwehrkanal : Tiergarten : 9<br/>\n2015-06-24 : Schleusenkrug : am Landwehrkanal : Tiergarten : 8<br/>\n2013-04-24 : Schleusenkrug : am Landwehrkanal : Tiergarten : ~13<br/>\n2012-06-27 : Schleusenkrug : am Landwehrkanal : Tiergarten : <br/>\n2011-04-27 : Schleusenkrug : am Landwehrkanal : Tiergarten : <br/>\n2010-04-28 : Schleusenkrug : am Landwehrkanal : Tiergarten : <br/>\n2009-04-29 : Schleusenkrug : am Landwehrkanal : Tiergarten : <br/>\n2003-07-30 : Schleusenkrug : am Landwehrkanal : Tiergarten : "
+            "name" : "<b>Schleusenkrug</b> : am Landwehrkanal : Tiergarten<br>\n* 2019-04-24 : 5<br>\n* 2018-05-30 : 9<br>\n* 2015-06-24 : 8<br>\n* 2013-04-24 : ~13<br>\n* 2012-06-27 : N/A<br>\n* 2011-04-27 : N/A<br>\n* 2010-04-28 : N/A<br>\n* 2009-04-29 : N/A<br>\n* 2003-07-30 : N/A"
          },
          "type" : "Feature"
       },
@@ -208,7 +208,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2019-03-27 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : 8<br/>\n2015-05-27 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : 5<br/>\n2014-08-27 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : 15<br/>\n2012-04-25 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : ~18<br/>\n2010-10-27 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : <br/>\n2009-06-24 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : <br/>\n2007-10-31 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : <br/>\n2006-11-29 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : <br/>\n2006-10-25 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : <br/>\n2004-07-28 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : "
+            "name" : "<b>Caf\u00e9 Uebereck</b> : Sonntagstr. 31 : Friedrichshain<br>\n* 2019-03-27 : 8<br>\n* 2015-05-27 : 5<br>\n* 2014-08-27 : 15<br>\n* 2012-04-25 : ~18<br>\n* 2010-10-27 : N/A<br>\n* 2009-06-24 : N/A<br>\n* 2007-10-31 : N/A<br>\n* 2006-11-29 : N/A<br>\n* 2006-10-25 : N/A<br>\n* 2004-07-28 : N/A"
          },
          "type" : "Feature"
       },
@@ -222,7 +222,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2019-02-27 : The Castle Friedrichshain : Frankfurter Tor 7 : Friedrichshain : 10"
+            "name" : "<b>The Castle Friedrichshain</b> : Frankfurter Tor 7 : Friedrichshain<br>\n* 2019-02-27 : 10"
          },
          "type" : "Feature"
       },
@@ -236,7 +236,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2019-01-30 : Alte Dorfecke : Alt-Tempelhof 61 : Tempelhof : 8"
+            "name" : "<b>Alte Dorfecke</b> : Alt-Tempelhof 61 : Tempelhof<br>\n* 2019-01-30 : 8"
          },
          "type" : "Feature"
       },
@@ -250,7 +250,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2019-01-09 : Dicke Wirtin : Carmerstra\u00dfe 9 : Charlottenburg : 8"
+            "name" : "<b>Dicke Wirtin</b> : Carmerstra\u00dfe 9 : Charlottenburg<br>\n* 2019-01-09 : 8"
          },
          "type" : "Feature"
       },
@@ -264,7 +264,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2018-11-28 : Schalander im RAW : Revaler Stra\u00dfe 99 : Friedrichshain : 9"
+            "name" : "<b>Schalander im RAW</b> : Revaler Stra\u00dfe 99 : Friedrichshain<br>\n* 2018-11-28 : 9"
          },
          "type" : "Feature"
       },
@@ -278,7 +278,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2018-10-31 : Las Olas : Karl-Liebknecht-Str. 29 : Mitte : 15"
+            "name" : "<b>Las Olas</b> : Karl-Liebknecht-Str. 29 : Mitte<br>\n* 2018-10-31 : 15"
          },
          "type" : "Feature"
       },
@@ -292,7 +292,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2018-09-26 : Viasko : Erkelenzdamm 49 : Kreuzberg : 9<br/>\n2017-04-26 : Viasko : Erkelenzdamm 49 : Kreuzberg : 8<br/>\n2015-10-28 : Viasko : Erkelenzdamm 49 : Kreuzberg : 11<br/>\n2014-05-28 : Viasko : Erkelenzdamm 49 : Kreuzberg : ~9<br/>\n2012-07-25 : Viasko : Erkelenzdamm 49 : Kreuzberg : <br/>\n2005-04-27 : Old Emerald Isle : Erkelenzdamm 49 : Kreuzberg : "
+            "name" : "<b>Viasko</b> : Erkelenzdamm 49 : Kreuzberg<br>\n* 2018-09-26 : 9<br>\n* 2017-04-26 : 8<br>\n* 2015-10-28 : 11<br>\n* 2014-05-28 : ~9<br>\n* 2012-07-25 : N/A<br>\n<b>Old Emerald Isle</b> : Erkelenzdamm 49 : Kreuzberg<br>\n* 2005-04-27 : N/A"
          },
          "type" : "Feature"
       },
@@ -306,7 +306,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2018-09-13 : Lindenbr\u00e4u am Potsdamer Platz : Bellevuestrasse 3-5 : Tiergarten : 16<br/>\n2018-01-31 : Lindenbr\u00e4u am Potsdamer Platz : Bellevuestrasse 3-5 : Tiergarten : 12"
+            "name" : "<b>Lindenbr\u00e4u am Potsdamer Platz</b> : Bellevuestrasse 3-5 : Tiergarten<br>\n* 2018-09-13 : 16<br>\n* 2018-01-31 : 12"
          },
          "type" : "Feature"
       },
@@ -320,7 +320,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2018-08-29 : M\u00e4dchen ohne Abitur : K\u00f6rtestr. 5 : Kreuzberg : 8"
+            "name" : "<b>M\u00e4dchen ohne Abitur</b> : K\u00f6rtestr. 5 : Kreuzberg<br>\n* 2018-08-29 : 8"
          },
          "type" : "Feature"
       },
@@ -334,7 +334,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2018-07-25 : Biergarten Moabiter Freiheit : Alt-Moabit 24 : Moabit : 10"
+            "name" : "<b>Biergarten Moabiter Freiheit</b> : Alt-Moabit 24 : Moabit<br>\n* 2018-07-25 : 10"
          },
          "type" : "Feature"
       },
@@ -348,7 +348,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2018-06-27 : J\u00e4gerklause : Gr\u00fcnberger Str. 1 : Friedrichshain : 8"
+            "name" : "<b>J\u00e4gerklause</b> : Gr\u00fcnberger Str. 1 : Friedrichshain<br>\n* 2018-06-27 : 8"
          },
          "type" : "Feature"
       },
@@ -362,7 +362,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2018-04-25 : Caf\u00e9 Butter : Pappelallee 73 : Prenzlauer Berg : 10"
+            "name" : "<b>Caf\u00e9 Butter</b> : Pappelallee 73 : Prenzlauer Berg<br>\n* 2018-04-25 : 10"
          },
          "type" : "Feature"
       },
@@ -376,7 +376,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2018-03-28 : Caf\u00e9 Morgenland : Skalitzer Str. 35 : Kreuzberg : 10"
+            "name" : "<b>Caf\u00e9 Morgenland</b> : Skalitzer Str. 35 : Kreuzberg<br>\n* 2018-03-28 : 10"
          },
          "type" : "Feature"
       },
@@ -390,7 +390,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2018-01-03 : Brewdog : Ackerstr. 29 : Mitte : 10"
+            "name" : "<b>Brewdog</b> : Ackerstr. 29 : Mitte<br>\n* 2018-01-03 : 10"
          },
          "type" : "Feature"
       },
@@ -404,7 +404,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2017-11-29 : Bal\u00e9 : Schlesische Str. 35 : Kreuzberg : 11"
+            "name" : "<b>Bal\u00e9</b> : Schlesische Str. 35 : Kreuzberg<br>\n* 2017-11-29 : 11"
          },
          "type" : "Feature"
       },
@@ -418,7 +418,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2017-10-25 : Brauhaus Lemke am Hackeschen Markt : Dircksenstr. 143 : Mitte : 7"
+            "name" : "<b>Brauhaus Lemke am Hackeschen Markt</b> : Dircksenstr. 143 : Mitte<br>\n* 2017-10-25 : 7"
          },
          "type" : "Feature"
       },
@@ -432,7 +432,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2017-09-27 : Brauhaus in Rixdorf : Glasower Str. 27 : Neuk\u00f6lln : 8"
+            "name" : "<b>Brauhaus in Rixdorf</b> : Glasower Str. 27 : Neuk\u00f6lln<br>\n* 2017-09-27 : 8"
          },
          "type" : "Feature"
       },
@@ -446,7 +446,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2017-08-30 : Caf\u00e9 am Flie\u00df : Blankenburger Pflasterweg 40 : Stadtrandsiedlung Malchow : 11"
+            "name" : "<b>Caf\u00e9 am Flie\u00df</b> : Blankenburger Pflasterweg 40 : Stadtrandsiedlung Malchow<br>\n* 2017-08-30 : 11"
          },
          "type" : "Feature"
       },
@@ -460,7 +460,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2017-07-26 : Chay Village : Niederbarnimstra\u00dfe 10 : Friedrichshain : 8"
+            "name" : "<b>Chay Village</b> : Niederbarnimstra\u00dfe 10 : Friedrichshain<br>\n* 2017-07-26 : 8"
          },
          "type" : "Feature"
       },
@@ -474,7 +474,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2017-06-28 : Stone Brewing : Im Marienpark 23 : Mariendorf : 11"
+            "name" : "<b>Stone Brewing</b> : Im Marienpark 23 : Mariendorf<br>\n* 2017-06-28 : 11"
          },
          "type" : "Feature"
       },
@@ -488,7 +488,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2017-05-31 : Hafenrestaurant Deckshaus : M\u00e4rkisches Ufer 34 : Mitte : 12"
+            "name" : "<b>Hafenrestaurant Deckshaus</b> : M\u00e4rkisches Ufer 34 : Mitte<br>\n* 2017-05-31 : 12"
          },
          "type" : "Feature"
       },
@@ -502,7 +502,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2017-03-29 : Schnitzelei Berlin Mitte : Chausseestr. 8 : Mitte : 9<br/>\n2006-08-30 : Das Speisezimmer : Chausseestr. 8 : Mitte : "
+            "name" : "<b>Schnitzelei Berlin Mitte</b> : Chausseestr. 8 : Mitte<br>\n* 2017-03-29 : 9<br>\n<b>Das Speisezimmer</b> : Chausseestr. 8 : Mitte<br>\n* 2006-08-30 : N/A"
          },
          "type" : "Feature"
       },
@@ -516,7 +516,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2017-02-22 : Ora (Oranien Apotheke) : Oranienplatz 14 : Kreuzberg : 5"
+            "name" : "<b>Ora (Oranien Apotheke)</b> : Oranienplatz 14 : Kreuzberg<br>\n* 2017-02-22 : 5"
          },
          "type" : "Feature"
       },
@@ -530,7 +530,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2017-01-25 : Caf\u00e9 Orange : Oranienburger Str. 32 : Mitte : 9<br/>\n2002-09-25 : Caf\u00e9 Orange : Oranienburger Str. 32 : Mitte : <br/>\n2002-02-?? : Caf\u00e9 Orange : Oranienburger Str. 32 : Mitte : "
+            "name" : "<b>Caf\u00e9 Orange</b> : Oranienburger Str. 32 : Mitte<br>\n* 2017-01-25 : 9<br>\n* 2002-09-25 : N/A<br>\n* 2002-02-?? : N/A"
          },
          "type" : "Feature"
       },
@@ -544,7 +544,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2016-11-30 : Djimalaya : Invalidenstr. 159 : Mitte : 10"
+            "name" : "<b>Djimalaya</b> : Invalidenstr. 159 : Mitte<br>\n* 2016-11-30 : 10"
          },
          "type" : "Feature"
       },
@@ -558,7 +558,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2016-10-26 : Powwow : Grimmstr. 20 : Kreuzberg : 11<br/>\n2007-09-26 : Powwow : Grimmstr. 20 : Kreuzberg : "
+            "name" : "<b>Powwow</b> : Grimmstr. 20 : Kreuzberg<br>\n* 2016-10-26 : 11<br>\n* 2007-09-26 : N/A"
          },
          "type" : "Feature"
       },
@@ -572,7 +572,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2016-09-28 : Zur kleinen Markthalle : Legiendamm 32 : Kreuzberg : 7"
+            "name" : "<b>Zur kleinen Markthalle</b> : Legiendamm 32 : Kreuzberg<br>\n* 2016-09-28 : 7"
          },
          "type" : "Feature"
       },
@@ -586,7 +586,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2016-07-26 : Braugasthaus Dolden M\u00e4del : Mehringdamm 80 : Kreuzberg : "
+            "name" : "<b>Braugasthaus Dolden M\u00e4del</b> : Mehringdamm 80 : Kreuzberg<br>\n* 2016-07-26 : N/A"
          },
          "type" : "Feature"
       },
@@ -600,7 +600,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2016-07-19 : Caf\u00e9 V : Lausitzer Platz 12 : Kreuzberg : 9"
+            "name" : "<b>Caf\u00e9 V</b> : Lausitzer Platz 12 : Kreuzberg<br>\n* 2016-07-19 : 9"
          },
          "type" : "Feature"
       },
@@ -614,7 +614,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2016-04-27 : Flammerie Hugo Ball : Saalestr. 38 : Neuk\u00f6lln : 11"
+            "name" : "<b>Flammerie Hugo Ball</b> : Saalestr. 38 : Neuk\u00f6lln<br>\n* 2016-04-27 : 11"
          },
          "type" : "Feature"
       },
@@ -628,7 +628,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2016-03-30 : Krankenhaus KEH : Herzbergstr. 79 : Lichtenberg : 14"
+            "name" : "<b>Krankenhaus KEH</b> : Herzbergstr. 79 : Lichtenberg<br>\n* 2016-03-30 : 14"
          },
          "type" : "Feature"
       },
@@ -642,7 +642,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2016-02-24 : Trattoria del Corso : Hauptstr. 70 : Friedenau : 8"
+            "name" : "<b>Trattoria del Corso</b> : Hauptstr. 70 : Friedenau<br>\n* 2016-02-24 : 8"
          },
          "type" : "Feature"
       },
@@ -656,7 +656,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2016-01-27 : Marinehaus : M\u00e4rkisches Ufer 50 : Mitte : 11"
+            "name" : "<b>Marinehaus</b> : M\u00e4rkisches Ufer 50 : Mitte<br>\n* 2016-01-27 : 11"
          },
          "type" : "Feature"
       },
@@ -670,7 +670,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2016-01-06 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : 12<br/>\n2015-01-07 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : 9<br/>\n2014-01-08 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : 10<br/>\n2013-01-09 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : 15<br/>\n2012-01-04 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : <br/>\n2011-01-26 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : <br/>\n2010-02-24 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : <br/>\n2009-01-07 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : <br/>\n2008-09-24 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : "
+            "name" : "<b>Caf\u00e9 Nord Sud</b> : Auguststr. 87 : Mitte<br>\n* 2016-01-06 : 12<br>\n* 2015-01-07 : 9<br>\n* 2014-01-08 : 10<br>\n* 2013-01-09 : 15<br>\n* 2012-01-04 : N/A<br>\n* 2011-01-26 : N/A<br>\n* 2010-02-24 : N/A<br>\n* 2009-01-07 : N/A<br>\n* 2008-09-24 : N/A"
          },
          "type" : "Feature"
       },
@@ -684,7 +684,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2015-09-30 : Brauhaus S\u00fcdstern : Hasenheide 69 : Kreuzberg : 9"
+            "name" : "<b>Brauhaus S\u00fcdstern</b> : Hasenheide 69 : Kreuzberg<br>\n* 2015-09-30 : 9"
          },
          "type" : "Feature"
       },
@@ -698,7 +698,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2015-08-26 : James June Sommergarten : Karl-Marx-Allee 93 : Friedrichshain : 11"
+            "name" : "<b>James June Sommergarten</b> : Karl-Marx-Allee 93 : Friedrichshain<br>\n* 2015-08-26 : 11"
          },
          "type" : "Feature"
       },
@@ -712,7 +712,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2015-07-29 : Strandbad Wei\u00dfensee : Berliner Allee 155 : Wei\u00dfensee : 7"
+            "name" : "<b>Strandbad Wei\u00dfensee</b> : Berliner Allee 155 : Wei\u00dfensee<br>\n* 2015-07-29 : 7"
          },
          "type" : "Feature"
       },
@@ -726,7 +726,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2015-04-29 : Gasthaus Figl : Urbanstr. 47 : Kreuzberg : 9"
+            "name" : "<b>Gasthaus Figl</b> : Urbanstr. 47 : Kreuzberg<br>\n* 2015-04-29 : 9"
          },
          "type" : "Feature"
       },
@@ -740,7 +740,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2015-03-25 : Wirtshaus Hasenheide : Hasenheide 18 : Kreuzberg : 14"
+            "name" : "<b>Wirtshaus Hasenheide</b> : Hasenheide 18 : Kreuzberg<br>\n* 2015-03-25 : 14"
          },
          "type" : "Feature"
       },
@@ -754,7 +754,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2015-02-25 : Intimes : Boxhagener Str. 107 : Friedrichshain : 8"
+            "name" : "<b>Intimes</b> : Boxhagener Str. 107 : Friedrichshain<br>\n* 2015-02-25 : 8"
          },
          "type" : "Feature"
       },
@@ -768,7 +768,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2015-01-28 : The Lir Irish Bar : Flensburger Str. 7 : Tiergarten : 7"
+            "name" : "<b>The Lir Irish Bar</b> : Flensburger Str. 7 : Tiergarten<br>\n* 2015-01-28 : 7"
          },
          "type" : "Feature"
       },
@@ -782,7 +782,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2014-11-26 : Chay Viet (& Sloppy Joe's) : Brunnenstr. 164 : Mitte : 12"
+            "name" : "<b>Chay Viet (& Sloppy Joe's)</b> : Brunnenstr. 164 : Mitte<br>\n* 2014-11-26 : 12"
          },
          "type" : "Feature"
       },
@@ -796,7 +796,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2014-09-24 : Aufsturz : Oranienburger Str. 67 : Mitte : 7"
+            "name" : "<b>Aufsturz</b> : Oranienburger Str. 67 : Mitte<br>\n* 2014-09-24 : 7"
          },
          "type" : "Feature"
       },
@@ -810,7 +810,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2014-07-30 : Villa Rixdorf : Richardplatz 6 : Neuk\u00f6lln : 9<br/>\n2011-05-25 : Villa Rixdorf : Richardplatz 6 : Neuk\u00f6lln : "
+            "name" : "<b>Villa Rixdorf</b> : Richardplatz 6 : Neuk\u00f6lln<br>\n* 2014-07-30 : 9<br>\n* 2011-05-25 : N/A"
          },
          "type" : "Feature"
       },
@@ -824,7 +824,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2014-06-25 : Bistro Zeus : Boxhagener Str. 29 : Friedrichshain : 8"
+            "name" : "<b>Bistro Zeus</b> : Boxhagener Str. 29 : Friedrichshain<br>\n* 2014-06-25 : 8"
          },
          "type" : "Feature"
       },
@@ -838,7 +838,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2014-04-30 : Caf\u00e9 Resonanz : Ebersstr. 73 : Sch\u00f6neberg : <br/>\n2006-03-29 : Caf\u00e9 Resonanz (?) : Ebersstr. 73 : Sch\u00f6neberg : "
+            "name" : "<b>Caf\u00e9 Resonanz</b> : Ebersstr. 73 : Sch\u00f6neberg<br>\n* 2014-04-30 : N/A<br>\n<b>Caf\u00e9 Resonanz (?)</b> : Ebersstr. 73 : Sch\u00f6neberg<br>\n* 2006-03-29 : N/A"
          },
          "type" : "Feature"
       },
@@ -852,7 +852,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2014-03-26 : Kuchenkaiser : Oranienplatz 1 : Kreuzberg : 7<br/>\n2003-09-24 : Kuchenkaiser : Oranienplatz 1 : Kreuzberg : "
+            "name" : "<b>Kuchenkaiser</b> : Oranienplatz 1 : Kreuzberg<br>\n* 2014-03-26 : 7<br>\n* 2003-09-24 : N/A"
          },
          "type" : "Feature"
       },
@@ -866,7 +866,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2014-02-26 : Schwarze Pumpe : Choriner Str. 76 : Mitte : 10"
+            "name" : "<b>Schwarze Pumpe</b> : Choriner Str. 76 : Mitte<br>\n* 2014-02-26 : 10"
          },
          "type" : "Feature"
       },
@@ -880,7 +880,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2014-01-29 : Schalander : B\u00e4nschstr. 91 : Friedrichshain : 10"
+            "name" : "<b>Schalander</b> : B\u00e4nschstr. 91 : Friedrichshain<br>\n* 2014-01-29 : 10"
          },
          "type" : "Feature"
       },
@@ -894,7 +894,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2013-11-27 : Elfida : Gabriel-Max-Str. 15 : Friedrichshain : ~15"
+            "name" : "<b>Elfida</b> : Gabriel-Max-Str. 15 : Friedrichshain<br>\n* 2013-11-27 : ~15"
          },
          "type" : "Feature"
       },
@@ -908,7 +908,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2013-10-30 : Ponte Verde : Kirchhofstr. 41 : Neuk\u00f6lln : 15"
+            "name" : "<b>Ponte Verde</b> : Kirchhofstr. 41 : Neuk\u00f6lln<br>\n* 2013-10-30 : 15"
          },
          "type" : "Feature"
       },
@@ -922,7 +922,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2013-09-25 : Tussy Lounge : Sonntagstr. 22 : Friedrichshain : ~8"
+            "name" : "<b>Tussy Lounge</b> : Sonntagstr. 22 : Friedrichshain<br>\n* 2013-09-25 : ~8"
          },
          "type" : "Feature"
       },
@@ -936,7 +936,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2013-08-28 : Restaurant Tim : Bruno-Baum-Str. 71 : Marzahn : 12"
+            "name" : "<b>Restaurant Tim</b> : Bruno-Baum-Str. 71 : Marzahn<br>\n* 2013-08-28 : 12"
          },
          "type" : "Feature"
       },
@@ -950,7 +950,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2013-07-31 : Grill und Schlemmerbuffet : Rosenthaler Platz : Mitte : ~8"
+            "name" : "<b>Grill und Schlemmerbuffet</b> : Rosenthaler Platz : Mitte<br>\n* 2013-07-31 : ~8"
          },
          "type" : "Feature"
       },
@@ -964,7 +964,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2013-06-26 : il Ritrovo : Gabriel-Max-Str. 2 : Friedrichshain : 8"
+            "name" : "<b>il Ritrovo</b> : Gabriel-Max-Str. 2 : Friedrichshain<br>\n* 2013-06-26 : 8"
          },
          "type" : "Feature"
       },
@@ -978,7 +978,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2013-05-29 : Nola's am Weinberg : Weinbergspark : Mitte : ~9<br/>\n2008-08-27 : Nola's am Weinberg : Weinbergspark : Mitte : "
+            "name" : "<b>Nola's am Weinberg</b> : Weinbergspark : Mitte<br>\n* 2013-05-29 : ~9<br>\n* 2008-08-27 : N/A"
          },
          "type" : "Feature"
       },
@@ -992,7 +992,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2013-03-27 : Restauration Tucholsky : Torstr. 189 : Mitte : 10"
+            "name" : "<b>Restauration Tucholsky</b> : Torstr. 189 : Mitte<br>\n* 2013-03-27 : 10"
          },
          "type" : "Feature"
       },
@@ -1006,7 +1006,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2013-02-27 : Hirsch : Kopernikusstr. 3 : Friedrichshain : 4"
+            "name" : "<b>Hirsch</b> : Kopernikusstr. 3 : Friedrichshain<br>\n* 2013-02-27 : 4"
          },
          "type" : "Feature"
       },
@@ -1020,7 +1020,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2012-11-28 : Transit : Sonntagstr. 28 : Friedrichshain : "
+            "name" : "<b>Transit</b> : Sonntagstr. 28 : Friedrichshain<br>\n* 2012-11-28 : N/A"
          },
          "type" : "Feature"
       },
@@ -1034,7 +1034,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2012-10-31 : Max & Moritz : Oranienstr. 162 : Kreuzberg : "
+            "name" : "<b>Max & Moritz</b> : Oranienstr. 162 : Kreuzberg<br>\n* 2012-10-31 : N/A"
          },
          "type" : "Feature"
       },
@@ -1048,7 +1048,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2012-09-26 : Sophieneck : Gro\u00dfe Hamburger Str. 37 : Mitte : "
+            "name" : "<b>Sophieneck</b> : Gro\u00dfe Hamburger Str. 37 : Mitte<br>\n* 2012-09-26 : N/A"
          },
          "type" : "Feature"
       },
@@ -1062,7 +1062,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2012-03-28 : Helmut Kohl Bar : Emser Str. 122 : Neuk\u00f6lln : "
+            "name" : "<b>Helmut Kohl Bar</b> : Emser Str. 122 : Neuk\u00f6lln<br>\n* 2012-03-28 : N/A"
          },
          "type" : "Feature"
       },
@@ -1076,7 +1076,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2012-01-25 : The Happy Pig's : Lenbachstr. 1 : Friedrichshain : <br/>\n2004-01-28 : Last century pub : Lenbachstr. 1 : Friedrichshain : "
+            "name" : "<b>The Happy Pig's</b> : Lenbachstr. 1 : Friedrichshain<br>\n* 2012-01-25 : N/A<br>\n<b>Last century pub</b> : Lenbachstr. 1 : Friedrichshain<br>\n* 2004-01-28 : N/A"
          },
          "type" : "Feature"
       },
@@ -1090,7 +1090,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2011-11-30 : Locus : Marheinekeplatz 4 : Kreuzberg : <br/>\n2011-01-05 : Locus : Marheinekeplatz 4 : Kreuzberg : <br/>\n2009-03-25 : Locus : Marheinekeplatz 4 : Kreuzberg : <br/>\n2008-01-02 : Locus : Marheinekeplatz 4 : Kreuzberg : <br/>\n2005-02-23 : Locus : Marheinekeplatz 4 : Kreuzberg : <br/>\n2002-10-30 : Locus : Marheinekeplatz 4 : Kreuzberg : "
+            "name" : "<b>Locus</b> : Marheinekeplatz 4 : Kreuzberg<br>\n* 2011-11-30 : N/A<br>\n* 2011-01-05 : N/A<br>\n* 2009-03-25 : N/A<br>\n* 2008-01-02 : N/A<br>\n* 2005-02-23 : N/A<br>\n* 2002-10-30 : N/A"
          },
          "type" : "Feature"
       },
@@ -1104,7 +1104,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2011-10-26 : Trattoria Libau : Libauer Str. 10 : Friedrichshain : "
+            "name" : "<b>Trattoria Libau</b> : Libauer Str. 10 : Friedrichshain<br>\n* 2011-10-26 : N/A"
          },
          "type" : "Feature"
       },
@@ -1118,7 +1118,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2011-09-28 : Hannibal : Skalitzer Str. : Kreuzberg : "
+            "name" : "<b>Hannibal</b> : Skalitzer Str. : Kreuzberg<br>\n* 2011-09-28 : N/A"
          },
          "type" : "Feature"
       },
@@ -1132,7 +1132,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2011-08-10 : Cl\u00e4rchens Ballhaus : Auguststr. 24 : Mitte : <br/>\n2011-07-27 : Cl\u00e4rchens Ballhaus : Auguststr. 24 : Mitte : <br/>\n2007-03-28 : Ballhaus Mitte : Auguststr. 24 : Mitte : "
+            "name" : "<b>Cl\u00e4rchens Ballhaus</b> : Auguststr. 24 : Mitte<br>\n* 2011-08-10 : N/A<br>\n* 2011-07-27 : N/A<br>\n<b>Ballhaus Mitte</b> : Auguststr. 24 : Mitte<br>\n* 2007-03-28 : N/A"
          },
          "type" : "Feature"
       },
@@ -1146,7 +1146,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2011-06-29 : Sommergarten in Alt-Moabit : Alt-Moabit 26 : Moabit : "
+            "name" : "<b>Sommergarten in Alt-Moabit</b> : Alt-Moabit 26 : Moabit<br>\n* 2011-06-29 : N/A"
          },
          "type" : "Feature"
       },
@@ -1160,7 +1160,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2011-03-30 : Ambar : Bochumer Str. 5 : Moabit : "
+            "name" : "<b>Ambar</b> : Bochumer Str. 5 : Moabit<br>\n* 2011-03-30 : N/A"
          },
          "type" : "Feature"
       },
@@ -1174,7 +1174,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2011-02-23 : Caf\u00e9 Via Nova : Revaler Str. 9 : Friedrichshain : "
+            "name" : "<b>Caf\u00e9 Via Nova</b> : Revaler Str. 9 : Friedrichshain<br>\n* 2011-02-23 : N/A"
          },
          "type" : "Feature"
       },
@@ -1188,7 +1188,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2010-11-24 : Restaurant Fliegender Tisch : Mainzer Str. 10 : Friedrichshain : "
+            "name" : "<b>Restaurant Fliegender Tisch</b> : Mainzer Str. 10 : Friedrichshain<br>\n* 2010-11-24 : N/A"
          },
          "type" : "Feature"
       },
@@ -1202,7 +1202,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2010-08-25 : Die Turnhalle : Holteistr. 6-9 : Friedrichshain : <br/>\n2008-04-30 : Die Turnhalle : Holteistr. 6-9 : Friedrichshain : <br/>\n2007-06-27 : Die Turnhalle : Holteistr. 6-9 : Friedrichshain : "
+            "name" : "<b>Die Turnhalle</b> : Holteistr. 6-9 : Friedrichshain<br>\n* 2010-08-25 : N/A<br>\n* 2008-04-30 : N/A<br>\n* 2007-06-27 : N/A"
          },
          "type" : "Feature"
       },
@@ -1216,7 +1216,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2010-06-30 : Brauerei Eschenbr\u00e4u : Triftstr. 67 : Wedding : "
+            "name" : "<b>Brauerei Eschenbr\u00e4u</b> : Triftstr. 67 : Wedding<br>\n* 2010-06-30 : N/A"
          },
          "type" : "Feature"
       },
@@ -1230,7 +1230,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2010-05-26 : Walhalla : Krefelder Str. 6 : Moabit : "
+            "name" : "<b>Walhalla</b> : Krefelder Str. 6 : Moabit<br>\n* 2010-05-26 : N/A"
          },
          "type" : "Feature"
       },
@@ -1244,7 +1244,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2010-03-31 : Restaurant Honigmond : Tieckstr. 12 : Mitte : <br/>\n2009-03-04 : Restaurant Honigmond : Tieckstr. 12 : Mitte : "
+            "name" : "<b>Restaurant Honigmond</b> : Tieckstr. 12 : Mitte<br>\n* 2010-03-31 : N/A<br>\n* 2009-03-04 : N/A"
          },
          "type" : "Feature"
       },
@@ -1258,7 +1258,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2010-01-27 : Orient Lounge : Oranienstr. 13 : Kreuzberg : "
+            "name" : "<b>Orient Lounge</b> : Oranienstr. 13 : Kreuzberg<br>\n* 2010-01-27 : N/A"
          },
          "type" : "Feature"
       },
@@ -1272,7 +1272,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2010-01-06 : Assel : Oranienburger Str. 21 : Mitte : "
+            "name" : "<b>Assel</b> : Oranienburger Str. 21 : Mitte<br>\n* 2010-01-06 : N/A"
          },
          "type" : "Feature"
       },
@@ -1286,7 +1286,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2009-11-25 : Ankerklause : Kottbusser Damm 104 : Neuk\u00f6lln : "
+            "name" : "<b>Ankerklause</b> : Kottbusser Damm 104 : Neuk\u00f6lln<br>\n* 2009-11-25 : N/A"
          },
          "type" : "Feature"
       },
@@ -1300,7 +1300,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2009-10-28 : Brechtkeller : Chausseestr. 125 : Mitte : "
+            "name" : "<b>Brechtkeller</b> : Chausseestr. 125 : Mitte<br>\n* 2009-10-28 : N/A"
          },
          "type" : "Feature"
       },
@@ -1314,7 +1314,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2009-08-26 : Freischwimmer : Vor dem Schlesischen Tor 2a : Kreuzberg : "
+            "name" : "<b>Freischwimmer</b> : Vor dem Schlesischen Tor 2a : Kreuzberg<br>\n* 2009-08-26 : N/A"
          },
          "type" : "Feature"
       },
@@ -1328,7 +1328,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2009-05-27 : Alpenst\u00fcck : Gartenstr. 9 : Mitte : "
+            "name" : "<b>Alpenst\u00fcck</b> : Gartenstr. 9 : Mitte<br>\n* 2009-05-27 : N/A"
          },
          "type" : "Feature"
       },
@@ -1342,7 +1342,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2009-01-28 : Spaghetti Western : Torstr. 179 : Mitte : "
+            "name" : "<b>Spaghetti Western</b> : Torstr. 179 : Mitte<br>\n* 2009-01-28 : N/A"
          },
          "type" : "Feature"
       },
@@ -1356,7 +1356,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2008-11-26 : Ein Brief von Gestern : B\u00e4nschstr. 25 : Friedrichshain : "
+            "name" : "<b>Ein Brief von Gestern</b> : B\u00e4nschstr. 25 : Friedrichshain<br>\n* 2008-11-26 : N/A"
          },
          "type" : "Feature"
       },
@@ -1370,7 +1370,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2008-10-29 : Cocktailbar Zeitlos 5 : Franklinstr. 10 : Charlottenburg : <br/>\n2004-11-24 : Cocktailbar Zeitlos 5 : Franklinstr. 10 : Charlottenburg : "
+            "name" : "<b>Cocktailbar Zeitlos 5</b> : Franklinstr. 10 : Charlottenburg<br>\n* 2008-10-29 : N/A<br>\n* 2004-11-24 : N/A"
          },
          "type" : "Feature"
       },
@@ -1384,7 +1384,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2008-07-30 : Z-Bar : Bergstr. 2 : Mitte : "
+            "name" : "<b>Z-Bar</b> : Bergstr. 2 : Mitte<br>\n* 2008-07-30 : N/A"
          },
          "type" : "Feature"
       },
@@ -1398,7 +1398,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2008-06-25 : Restaurant Paris-Moskau : Alt-Moabit 141 : Moabit : "
+            "name" : "<b>Restaurant Paris-Moskau</b> : Alt-Moabit 141 : Moabit<br>\n* 2008-06-25 : N/A"
          },
          "type" : "Feature"
       },
@@ -1412,7 +1412,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2008-05-28 : Bundespressestrand : Kapelle-Ufer 1 : Mitte : "
+            "name" : "<b>Bundespressestrand</b> : Kapelle-Ufer 1 : Mitte<br>\n* 2008-05-28 : N/A"
          },
          "type" : "Feature"
       },
@@ -1426,7 +1426,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2008-02-27 : Zur Letzten Instanz : Waisenstr. 14-16 : Mitte : "
+            "name" : "<b>Zur Letzten Instanz</b> : Waisenstr. 14-16 : Mitte<br>\n* 2008-02-27 : N/A"
          },
          "type" : "Feature"
       },
@@ -1440,7 +1440,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2008-01-30 : c-base : Rungestr. 20 : Mitte : "
+            "name" : "<b>c-base</b> : Rungestr. 20 : Mitte<br>\n* 2008-01-30 : N/A"
          },
          "type" : "Feature"
       },
@@ -1454,7 +1454,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2007-11-28 : Sankt Oberholz : Rosenthaler Str. 72a : Mitte : "
+            "name" : "<b>Sankt Oberholz</b> : Rosenthaler Str. 72a : Mitte<br>\n* 2007-11-28 : N/A"
          },
          "type" : "Feature"
       },
@@ -1468,7 +1468,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2007-07-25 : Golgatha am Kreuzberg : Dudenstr. 40 : Kreuzberg : <br/>\n2004-08-25 : Golgatha am Kreuzberg : Dudenstr. 40 : Kreuzberg : "
+            "name" : "<b>Golgatha am Kreuzberg</b> : Dudenstr. 40 : Kreuzberg<br>\n* 2007-07-25 : N/A<br>\n* 2004-08-25 : N/A"
          },
          "type" : "Feature"
       },
@@ -1482,7 +1482,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2007-05-30 : Deponie : Georgenstr. 5 : Mitte : "
+            "name" : "<b>Deponie</b> : Georgenstr. 5 : Mitte<br>\n* 2007-05-30 : N/A"
          },
          "type" : "Feature"
       },
@@ -1496,7 +1496,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2007-04-25 : META : Am Falkplatz 1 : Prenzlauer Berg : "
+            "name" : "<b>META</b> : Am Falkplatz 1 : Prenzlauer Berg<br>\n* 2007-04-25 : N/A"
          },
          "type" : "Feature"
       },
@@ -1510,7 +1510,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2007-02-28 : Caf\u00e9 Altes Europa : Gipsstr. 11 : Mitte : "
+            "name" : "<b>Caf\u00e9 Altes Europa</b> : Gipsstr. 11 : Mitte<br>\n* 2007-02-28 : N/A"
          },
          "type" : "Feature"
       },
@@ -1524,7 +1524,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2007-01-31 : K\u00fclt\u00fcrzeit : Simon-Dach-Str. 24 : Friedrichshain : "
+            "name" : "<b>K\u00fclt\u00fcrzeit</b> : Simon-Dach-Str. 24 : Friedrichshain<br>\n* 2007-01-31 : N/A"
          },
          "type" : "Feature"
       },
@@ -1538,7 +1538,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2006-12-20 : Stiege : Oranienstr. 47A : Kreuzberg : "
+            "name" : "<b>Stiege</b> : Oranienstr. 47A : Kreuzberg<br>\n* 2006-12-20 : N/A"
          },
          "type" : "Feature"
       },
@@ -1552,7 +1552,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2006-09-26 : Restaurant Gl\u00fchwurm : Handjerystr. 77 : Friedenau : "
+            "name" : "<b>Restaurant Gl\u00fchwurm</b> : Handjerystr. 77 : Friedenau<br>\n* 2006-09-26 : N/A"
          },
          "type" : "Feature"
       },
@@ -1566,7 +1566,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2006-07-26 : Sch\u00f6nwetter : Bernauer Str. 63 : Wedding : "
+            "name" : "<b>Sch\u00f6nwetter</b> : Bernauer Str. 63 : Wedding<br>\n* 2006-07-26 : N/A"
          },
          "type" : "Feature"
       },
@@ -1580,7 +1580,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2006-06-28 : Stadtstrand : M\u00fchlenstr. : Friedrichshain : "
+            "name" : "<b>Stadtstrand</b> : M\u00fchlenstr. : Friedrichshain<br>\n* 2006-06-28 : N/A"
          },
          "type" : "Feature"
       },
@@ -1594,7 +1594,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2006-05-31 : Schraders : Malplaquetstr. 16b : Wedding : "
+            "name" : "<b>Schraders</b> : Malplaquetstr. 16b : Wedding<br>\n* 2006-05-31 : N/A"
          },
          "type" : "Feature"
       },
@@ -1608,7 +1608,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2006-05-03 : Rocco und seine Br\u00fcder : Lausitzer Platz 13 : Kreuzberg : "
+            "name" : "<b>Rocco und seine Br\u00fcder</b> : Lausitzer Platz 13 : Kreuzberg<br>\n* 2006-05-03 : N/A"
          },
          "type" : "Feature"
       },
@@ -1622,7 +1622,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2006-02-22 : Caf\u00e9 Rizz : Grimmstr. 21 : Kreuzberg : "
+            "name" : "<b>Caf\u00e9 Rizz</b> : Grimmstr. 21 : Kreuzberg<br>\n* 2006-02-22 : N/A"
          },
          "type" : "Feature"
       },
@@ -1636,7 +1636,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2006-01-25 : Istoria : Kollwitzstr. 64 : Prenzlauer Berg : "
+            "name" : "<b>Istoria</b> : Kollwitzstr. 64 : Prenzlauer Berg<br>\n* 2006-01-25 : N/A"
          },
          "type" : "Feature"
       },
@@ -1650,7 +1650,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2005-11-30 : Caf\u00e9 Mirell : Crellestr. 46 : Sch\u00f6neberg : "
+            "name" : "<b>Caf\u00e9 Mirell</b> : Crellestr. 46 : Sch\u00f6neberg<br>\n* 2005-11-30 : N/A"
          },
          "type" : "Feature"
       },
@@ -1664,7 +1664,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2005-10-17 : Caf\u00e9 Bilderbuch : Akazienstr. 28 : Sch\u00f6neberg : "
+            "name" : "<b>Caf\u00e9 Bilderbuch</b> : Akazienstr. 28 : Sch\u00f6neberg<br>\n* 2005-10-17 : N/A"
          },
          "type" : "Feature"
       },
@@ -1678,7 +1678,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2005-09-28 : frarosa : Zionskirchstr. 40 : Mitte : "
+            "name" : "<b>frarosa</b> : Zionskirchstr. 40 : Mitte<br>\n* 2005-09-28 : N/A"
          },
          "type" : "Feature"
       },
@@ -1692,7 +1692,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2005-08-31 : Restaurant Toulouse : Schwarzer Weg 71 : Tegel : "
+            "name" : "<b>Restaurant Toulouse</b> : Schwarzer Weg 71 : Tegel<br>\n* 2005-08-31 : N/A"
          },
          "type" : "Feature"
       },
@@ -1706,7 +1706,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2005-07-27 : Caf\u00e9 Aroma : Hochkirchstr. 8 : Sch\u00f6neberg : "
+            "name" : "<b>Caf\u00e9 Aroma</b> : Hochkirchstr. 8 : Sch\u00f6neberg<br>\n* 2005-07-27 : N/A"
          },
          "type" : "Feature"
       },
@@ -1720,7 +1720,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2005-06-29 : Capt'n Schillow : Str. des 17. Juni : Tiergarten : "
+            "name" : "<b>Capt'n Schillow</b> : Str. des 17. Juni : Tiergarten<br>\n* 2005-06-29 : N/A"
          },
          "type" : "Feature"
       },
@@ -1734,7 +1734,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2005-03-30 : Weinlokal neben Strandbad Mitte : Auguststr. : Mitte : "
+            "name" : "<b>Weinlokal neben Strandbad Mitte</b> : Auguststr. : Mitte<br>\n* 2005-03-30 : N/A"
          },
          "type" : "Feature"
       },
@@ -1748,7 +1748,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2004-12-22 : Caf\u00e9 Buchhandlung : Tucholskystr. 32 : Mitte : "
+            "name" : "<b>Caf\u00e9 Buchhandlung</b> : Tucholskystr. 32 : Mitte<br>\n* 2004-12-22 : N/A"
          },
          "type" : "Feature"
       },
@@ -1762,7 +1762,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2004-09-29 : Caf\u00e9 Hundertwasser : Simon-Dach-Str. 39 : Friedrichshain : <br/>\n2003-03-26 : Caf\u00e9 Hundertwasser : Simon-Dach-Str. 39 : Friedrichshain : "
+            "name" : "<b>Caf\u00e9 Hundertwasser</b> : Simon-Dach-Str. 39 : Friedrichshain<br>\n* 2004-09-29 : N/A<br>\n* 2003-03-26 : N/A"
          },
          "type" : "Feature"
       },
@@ -1776,7 +1776,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2004-05-26 : Zwiebelfisch : Savignyplatz 7 : Charlottenburg : "
+            "name" : "<b>Zwiebelfisch</b> : Savignyplatz 7 : Charlottenburg<br>\n* 2004-05-26 : N/A"
          },
          "type" : "Feature"
       },
@@ -1790,7 +1790,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2004-04-28 : Tiroler Alpenstadl : Wichertstr. 43 : Prenzlauer Berg : "
+            "name" : "<b>Tiroler Alpenstadl</b> : Wichertstr. 43 : Prenzlauer Berg<br>\n* 2004-04-28 : N/A"
          },
          "type" : "Feature"
       },
@@ -1804,7 +1804,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2004-02-25 : Jalla Jalla : Kopenhagener Str. 4 : Prenzlauer Berg : "
+            "name" : "<b>Jalla Jalla</b> : Kopenhagener Str. 4 : Prenzlauer Berg<br>\n* 2004-02-25 : N/A"
          },
          "type" : "Feature"
       },
@@ -1818,7 +1818,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2003-12-17 : Caf\u00e9 Gottlob : Akazienstr. 16 : Sch\u00f6neberg : "
+            "name" : "<b>Caf\u00e9 Gottlob</b> : Akazienstr. 16 : Sch\u00f6neberg<br>\n* 2003-12-17 : N/A"
          },
          "type" : "Feature"
       },
@@ -1832,7 +1832,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2003-11-26 : Schollenkrug : Waidmannsluster Damm 77 : Waidmannslust : "
+            "name" : "<b>Schollenkrug</b> : Waidmannsluster Damm 77 : Waidmannslust<br>\n* 2003-11-26 : N/A"
          },
          "type" : "Feature"
       },
@@ -1846,7 +1846,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2003-10-29 : Bergwerk : Bergstr. 68 : Mitte : "
+            "name" : "<b>Bergwerk</b> : Bergstr. 68 : Mitte<br>\n* 2003-10-29 : N/A"
          },
          "type" : "Feature"
       },
@@ -1860,7 +1860,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2003-08-27 : Josef Heinrich : B\u00f6lschestr. 11 : Friedrichshagen : "
+            "name" : "<b>Josef Heinrich</b> : B\u00f6lschestr. 11 : Friedrichshagen<br>\n* 2003-08-27 : N/A"
          },
          "type" : "Feature"
       },
@@ -1874,7 +1874,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2003-06-25 : Entweder/Oder : Oderberger Str. 15 : Prenzlauer Berg : <br/>\n2002-06-?? : Entweder/Oder (?) : Oderberger Str. 15 : Prenzlauer Berg : <br/>\n2002-05-29 : Entweder/Oder : Oderberger Str. 15 : Prenzlauer Berg : "
+            "name" : "<b>Entweder/Oder</b> : Oderberger Str. 15 : Prenzlauer Berg<br>\n* 2003-06-25 : N/A<br>\n<b>Entweder/Oder (?)</b> : Oderberger Str. 15 : Prenzlauer Berg<br>\n* 2002-06-?? : N/A<br>\n<b>Entweder/Oder</b> : Oderberger Str. 15 : Prenzlauer Berg<br>\n* 2002-05-29 : N/A"
          },
          "type" : "Feature"
       },
@@ -1888,7 +1888,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2003-05-28 : Stra\u00dfenbahn : Laubacher Str. 29 : Wilmersdorf : "
+            "name" : "<b>Stra\u00dfenbahn</b> : Laubacher Str. 29 : Wilmersdorf<br>\n* 2003-05-28 : N/A"
          },
          "type" : "Feature"
       },
@@ -1902,7 +1902,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2003-04-30 : Las cascadas : Feuerbachstr. 31 : Steglitz : "
+            "name" : "<b>Las cascadas</b> : Feuerbachstr. 31 : Steglitz<br>\n* 2003-04-30 : N/A"
          },
          "type" : "Feature"
       },
@@ -1916,7 +1916,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2003-02-27 : Caf\u00e9 Garbaty : Breite Str. 43A : Pankow : "
+            "name" : "<b>Caf\u00e9 Garbaty</b> : Breite Str. 43A : Pankow<br>\n* 2003-02-27 : N/A"
          },
          "type" : "Feature"
       },
@@ -1930,7 +1930,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2003-01-29 : Dicker Engel : Birkenstr. 44 : Moabit : "
+            "name" : "<b>Dicker Engel</b> : Birkenstr. 44 : Moabit<br>\n* 2003-01-29 : N/A"
          },
          "type" : "Feature"
       },
@@ -1944,7 +1944,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2002-12-18 : Speedy Gonzales : Kastanienallee 26 : Prenzlauer Berg : "
+            "name" : "<b>Speedy Gonzales</b> : Kastanienallee 26 : Prenzlauer Berg<br>\n* 2002-12-18 : N/A"
          },
          "type" : "Feature"
       },
@@ -1958,7 +1958,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2002-11-27 : Tante Elli : L\u00fcderitzstr. 5 : Wedding : "
+            "name" : "<b>Tante Elli</b> : L\u00fcderitzstr. 5 : Wedding<br>\n* 2002-11-27 : N/A"
          },
          "type" : "Feature"
       },
@@ -1972,7 +1972,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2002-08-28 : (?) : Wichertstr./Gudvanger Str. : Prenzlauer Berg : "
+            "name" : "<b>(?)</b> : Wichertstr./Gudvanger Str. : Prenzlauer Berg<br>\n* 2002-08-28 : N/A"
          },
          "type" : "Feature"
       },
@@ -1986,7 +1986,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2002-07-31 : Schwarzes Caf\u00e9 : Kantstr. 148 : Charlottenburg : "
+            "name" : "<b>Schwarzes Caf\u00e9</b> : Kantstr. 148 : Charlottenburg<br>\n* 2002-07-31 : N/A"
          },
          "type" : "Feature"
       },
@@ -2000,7 +2000,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2002-04-?? : Joe Pe\u00f1as : Marheinekeplatz 3 : Kreuzberg : "
+            "name" : "<b>Joe Pe\u00f1as</b> : Marheinekeplatz 3 : Kreuzberg<br>\n* 2002-04-?? : N/A"
          },
          "type" : "Feature"
       },
@@ -2014,7 +2014,7 @@ geoJsonResponse({
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2002-03-?? : Tadshikische Teestube (?) : Oranienburger Str. 27 : Mitte : "
+            "name" : "<b>Tadshikische Teestube (?)</b> : Oranienburger Str. 27 : Mitte<br>\n* 2002-03-?? : N/A"
          },
          "type" : "Feature"
       }
