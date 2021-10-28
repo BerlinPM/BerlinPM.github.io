@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.39577",
+               "52.53280"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "<b>Brewdog</b> : Ackerstr. 29 : Mitte<br>\n* 2021-10-27 : 5<br>\n* 2018-01-03 : 10"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.367068",
                "52.521293"
             ],
@@ -391,20 +405,6 @@ geoJsonResponse({
          "properties" : {
             "cat" : "X",
             "name" : "<b>Caf\u00e9 Morgenland</b> : Skalitzer Str. 35 : Kreuzberg<br>\n* 2018-03-28 : 10"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.39577",
-               "52.53280"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "<b>Brewdog</b> : Ackerstr. 29 : Mitte<br>\n* 2018-01-03 : 10"
          },
          "type" : "Feature"
       },
