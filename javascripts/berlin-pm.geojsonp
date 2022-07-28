@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.27701",
+               "52.48851"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "<b>Biergarten am Herthasee</b> : Bismarckallee 23 : Grunewald<br>\n* 2022-07-27 : 5"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.478086",
                "52.487423"
             ],
