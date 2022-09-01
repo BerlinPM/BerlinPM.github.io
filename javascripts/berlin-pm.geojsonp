@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.38222",
+               "52.49426"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "<b>Die Horn</b> : Hornstra\u00dfe 4 : Kreuzberg<br>\n* 2022-08-31 : 7"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.27701",
                "52.48851"
             ],
