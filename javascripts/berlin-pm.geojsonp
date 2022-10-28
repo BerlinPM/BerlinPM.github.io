@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.367068",
+               "52.521293"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "<b>Zollpackhof</b> : Elisabeth-Abegg-Str. 1 : Tiergarten<br>\n* 2022-10-27 : 10<br>\n* 2022-04-27 : 9<br>\n* 2021-09-29 : 6<br>\n* 2020-09-23 : 7<br>\n* 2016-06-29 : 10<br>\n* 2012-08-29 : N/A<br>\n* 2010-07-28 : N/A<br>\n* 2005-05-25 : N/A"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.39577",
                "52.53280"
             ],
@@ -69,20 +83,6 @@ geoJsonResponse({
          "properties" : {
             "cat" : "X",
             "name" : "<b>Prater</b> : Kastanienallee 7 : Prenzlauer Berg<br>\n* 2022-06-02 : 2<br>\n* 2021-06-30 : 8<br>\n* 2020-07-29 : 7<br>\n* 2019-06-26 : 7<br>\n* 2016-08-31 : 15<br>\n* 2012-05-30 : N/A<br>\n* 2011-08-31 : N/A<br>\n* 2009-07-29 : N/A<br>\n* 2007-08-29 : N/A"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.367068",
-               "52.521293"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "<b>Zollpackhof</b> : Elisabeth-Abegg-Str. 1 : Tiergarten<br>\n* 2022-04-27 : 9<br>\n* 2021-09-29 : 6<br>\n* 2020-09-23 : 7<br>\n* 2016-06-29 : 10<br>\n* 2012-08-29 : N/A<br>\n* 2010-07-28 : N/A<br>\n* 2005-05-25 : N/A"
          },
          "type" : "Feature"
       },
