@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.457859",
+               "52.512819"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "<b>Intimes</b> : Boxhagener Str. 107 : Friedrichshain<br>\n* 2023-02-22 : 4<br>\n* 2015-02-25 : 8"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.466479",
                "52.505370"
             ],
@@ -797,20 +811,6 @@ geoJsonResponse({
          "properties" : {
             "cat" : "X",
             "name" : "<b>Wirtshaus Hasenheide</b> : Hasenheide 18 : Kreuzberg<br>\n* 2015-03-25 : 14"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.457859",
-               "52.512819"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "<b>Intimes</b> : Boxhagener Str. 107 : Friedrichshain<br>\n* 2015-02-25 : 8"
          },
          "type" : "Feature"
       },
