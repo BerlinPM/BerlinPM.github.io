@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.47870",
+               "52.53775"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "<b>Korry Restaurant</b> : Konrad-Wolf-Str. 68a : Alt-Hohensch\u00f6nhausen<br>\n* 2023-03-29 : 7"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.457859",
                "52.512819"
             ],
