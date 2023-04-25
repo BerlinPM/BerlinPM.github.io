@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.35345",
+               "52.50238"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "<b>Ambrosius</b> : Karl-Heinrich-Ulrichs-Str. 14 : Tiergarten<br>\n* 2023-04-25 : 6"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.47870",
                "52.53775"
             ],
