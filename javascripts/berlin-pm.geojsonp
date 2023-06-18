@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.37335",
+               "52.50007"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "<b>Br\u0142o Brwhouse</b> : Sch\u00f6neberger Str. 16 : Kreuzberg<br>\n* 2023-05-31 : 7"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.35345",
                "52.50238"
             ],
