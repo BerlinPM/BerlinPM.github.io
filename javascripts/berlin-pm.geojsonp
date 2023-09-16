@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.34427",
+               "52.51053"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "<b>Caf\u00e9 am Neuen See</b> : Lichtensteinallee 2 : Tiergarten<br>\n* 2023-08-30 : N/A"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.410031",
                "52.539821"
             ],
