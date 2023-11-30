@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.35271",
+               "52.52808"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "<b>Swart Bier & Weinlokal</b> : Dreysestr. 17 : Moabit<br>\n* 2023-11-29 : 5"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.45730",
                "52.51278"
             ],
