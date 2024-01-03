@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.39824",
+               "52.52529"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "<b>Anna Koschke</b> : Krausnickstr. 11 : Mitte<br>\n* 2024-01-03 : 7"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.35271",
                "52.52808"
             ],
