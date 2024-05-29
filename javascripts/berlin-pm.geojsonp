@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.38594",
+               "52.48959"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "<b>Braugasthaus Dolden M\u00e4del</b> : Mehringdamm 80 : Kreuzberg<br>\n* 2024-05-29 : 7<br>\n* 2016-07-26 : N/A"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.39796",
                "52.53262"
             ],
@@ -797,20 +811,6 @@ geoJsonResponse({
          "properties" : {
             "cat" : "X",
             "name" : "<b>Zur kleinen Markthalle</b> : Legiendamm 32 : Kreuzberg<br>\n* 2016-09-28 : 7"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.38594",
-               "52.48959"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "<b>Braugasthaus Dolden M\u00e4del</b> : Mehringdamm 80 : Kreuzberg<br>\n* 2016-07-26 : N/A"
          },
          "type" : "Feature"
       },
