@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.41695",
+               "52.52882"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "<b>Biergarten Augustiner auf B\u00f6tzow</b> : Prenzlauer Allee 247 : Prenzlauer Berg<br>\n* 2024-07-31 : 10"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.410031",
                "52.539821"
             ],
