@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.419899",
+               "52.478437"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "<b>Brauhaus Neulich</b> : Selchower Str. 20 : Neuk\u00f6lln<br>\n* 2024-08-28 : 8"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.41695",
                "52.52882"
             ],
