@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.367068",
+               "52.521293"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "<b>Zollpackhof</b> : Elisabeth-Abegg-Str. 1 : Tiergarten<br>\n* 2024-09-25 : 9<br>\n* 2023-09-27 : 7<br>\n* 2022-10-27 : 10<br>\n* 2022-04-27 : 9<br>\n* 2021-09-29 : 6<br>\n* 2020-09-23 : 7<br>\n* 2016-06-29 : 10<br>\n* 2012-08-29 : N/A<br>\n* 2010-07-28 : N/A<br>\n* 2005-05-25 : N/A"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.419899",
                "52.478437"
             ],
@@ -153,20 +167,6 @@ geoJsonResponse({
          "properties" : {
             "cat" : "X",
             "name" : "<b>Kaffeehaus KuchenRausch</b> : Simon-Dach-Str. 1 : Friedrichshain<br>\n* 2023-10-25 : 6"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.367068",
-               "52.521293"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "<b>Zollpackhof</b> : Elisabeth-Abegg-Str. 1 : Tiergarten<br>\n* 2023-09-27 : 7<br>\n* 2022-10-27 : 10<br>\n* 2022-04-27 : 9<br>\n* 2021-09-29 : 6<br>\n* 2020-09-23 : 7<br>\n* 2016-06-29 : 10<br>\n* 2012-08-29 : N/A<br>\n* 2010-07-28 : N/A<br>\n* 2005-05-25 : N/A"
          },
          "type" : "Feature"
       },
