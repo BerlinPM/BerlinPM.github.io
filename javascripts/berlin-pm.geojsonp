@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.460937",
+               "52.508883"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "<b>Aleppo Supper Club</b> : W\u00fchlischstr. 21 : Friedrichshain<br>\n* 2024-11-27 : 7"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.299843",
                "52.519975"
             ],
