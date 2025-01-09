@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.456444",
+               "52.509976"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "<b>Conmux Blechbilderbar</b> : Simon-Dach-Str. 35 : Friedrichshain<br>\n* 2025-01-08 : 6"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.460937",
                "52.508883"
             ],
