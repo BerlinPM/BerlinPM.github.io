@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.388387",
+               "52.531488"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "<b>The Castle</b> : Invalidenstr. 129 : Mitte<br>\n* 2025-01-29 : 9"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.456444",
                "52.509976"
             ],
