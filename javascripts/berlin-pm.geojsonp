@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.395055",
+               "52.524588"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "<b>Hummus and Friends</b> : Oranienburger Str. 27 : Mitte<br>\n* 2025-02-26 : 6"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.388387",
                "52.531488"
             ],
