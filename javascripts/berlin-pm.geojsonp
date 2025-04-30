@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.336045",
+               "52.511182"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "<b>Schleusenkrug</b> : am Landwehrkanal : Tiergarten<br>\n* 2025-04-30 : 2<br>\n* 2019-04-24 : 5<br>\n* 2018-05-30 : 9<br>\n* 2015-06-24 : 8<br>\n* 2013-04-24 : ~13<br>\n* 2012-06-27 : N/A<br>\n* 2011-04-27 : N/A<br>\n* 2010-04-28 : N/A<br>\n* 2009-04-29 : N/A<br>\n* 2003-07-30 : N/A"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.466479",
                "52.505370"
             ],
@@ -559,20 +573,6 @@ geoJsonResponse({
          "properties" : {
             "cat" : "X",
             "name" : "<b>Marjan-Grill</b> : Flensburger Str./S-Bellevue : Hansaviertel<br>\n* 2019-05-29 : 13"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.336045",
-               "52.511182"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "<b>Schleusenkrug</b> : am Landwehrkanal : Tiergarten<br>\n* 2019-04-24 : 5<br>\n* 2018-05-30 : 9<br>\n* 2015-06-24 : 8<br>\n* 2013-04-24 : ~13<br>\n* 2012-06-27 : N/A<br>\n* 2011-04-27 : N/A<br>\n* 2010-04-28 : N/A<br>\n* 2009-04-29 : N/A<br>\n* 2003-07-30 : N/A"
          },
          "type" : "Feature"
       },
