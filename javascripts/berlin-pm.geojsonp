@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.393465",
+               "52.524185"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "<b>Dieselhaus</b> : Forum an der Museumsinsel 10 : Mitte<br>\n* 2025-05-28 : 5"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.336045",
                "52.511182"
             ],
