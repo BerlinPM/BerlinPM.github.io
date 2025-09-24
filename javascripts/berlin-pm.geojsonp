@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.466479",
+               "52.505370"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "<b>Caf\u00e9 Uebereck</b> : Sonntagstr. 31 : Friedrichshain<br>\n* 2025-09-24 : 6<br>\n* 2025-03-26 : 5<br>\n* 2023-01-25 : 7<br>\n* 2019-03-27 : 8<br>\n* 2015-05-27 : 5<br>\n* 2014-08-27 : 15<br>\n* 2012-04-25 : ~18<br>\n* 2010-10-27 : N/A<br>\n* 2009-06-24 : N/A<br>\n* 2007-10-31 : N/A<br>\n* 2006-11-29 : N/A<br>\n* 2006-10-25 : N/A<br>\n* 2004-07-28 : N/A"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.365553",
                "52.481068"
             ],
@@ -69,20 +83,6 @@ geoJsonResponse({
          "properties" : {
             "cat" : "X",
             "name" : "<b>Schleusenkrug</b> : am Landwehrkanal : Tiergarten<br>\n* 2025-04-30 : 2<br>\n* 2019-04-24 : 5<br>\n* 2018-05-30 : 9<br>\n* 2015-06-24 : 8<br>\n* 2013-04-24 : ~13<br>\n* 2012-06-27 : N/A<br>\n* 2011-04-27 : N/A<br>\n* 2010-04-28 : N/A<br>\n* 2009-04-29 : N/A<br>\n* 2003-07-30 : N/A"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.466479",
-               "52.505370"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "<b>Caf\u00e9 Uebereck</b> : Sonntagstr. 31 : Friedrichshain<br>\n* 2025-03-26 : 5<br>\n* 2023-01-25 : 7<br>\n* 2019-03-27 : 8<br>\n* 2015-05-27 : 5<br>\n* 2014-08-27 : 15<br>\n* 2012-04-25 : ~18<br>\n* 2010-10-27 : N/A<br>\n* 2009-06-24 : N/A<br>\n* 2007-10-31 : N/A<br>\n* 2006-11-29 : N/A<br>\n* 2006-10-25 : N/A<br>\n* 2004-07-28 : N/A"
          },
          "type" : "Feature"
       },
