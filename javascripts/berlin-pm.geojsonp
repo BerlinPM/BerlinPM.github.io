@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.46092",
+               "52.51126"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "<b>Kurhaus Korsakow</b> : Gr\u00fcnberger Str. 81 : Friedrichshain<br>\n* 2025-11-26 : 7<br>\n* 2020-02-26 : 9"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.404871",
                "52.523516"
             ],
@@ -503,20 +517,6 @@ geoJsonResponse({
          "properties" : {
             "cat" : "X",
             "name" : "<b>Luftgarten</b> : Tempelhofer Feld : Neuk\u00f6lln<br>\n* 2020-08-25 : 5"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.46092",
-               "52.51126"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "<b>Kurhaus Korsakow</b> : Gr\u00fcnberger Str. 81 : Friedrichshain<br>\n* 2020-02-26 : 9"
          },
          "type" : "Feature"
       },
