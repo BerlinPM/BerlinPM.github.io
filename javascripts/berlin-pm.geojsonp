@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.45614",
+               "52.509826"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "<b>IRO Izakaya Vegan</b> : Simon-Dach-Str. 15 : Friedrichshain<br>\n* 2026-01-28 : 6"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.396334",
                "52.531914"
             ],
