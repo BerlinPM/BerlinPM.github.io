@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.38736",
+               "52.52849"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "<b>Schnitzelei Berlin Mitte</b> : Chausseestr. 8 : Mitte<br>\n* 2026-02-25 : 10<br>\n* 2017-03-29 : 9<br>\n<b>Das Speisezimmer</b> : Chausseestr. 8 : Mitte<br>\n* 2006-08-30 : N/A"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.45614",
                "52.509826"
             ],
@@ -881,20 +895,6 @@ geoJsonResponse({
          "properties" : {
             "cat" : "X",
             "name" : "<b>Hafenrestaurant Deckshaus</b> : M\u00e4rkisches Ufer 34 : Mitte<br>\n* 2017-05-31 : 12"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.38736",
-               "52.52849"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "<b>Schnitzelei Berlin Mitte</b> : Chausseestr. 8 : Mitte<br>\n* 2017-03-29 : 9<br>\n<b>Das Speisezimmer</b> : Chausseestr. 8 : Mitte<br>\n* 2006-08-30 : N/A"
          },
          "type" : "Feature"
       },
