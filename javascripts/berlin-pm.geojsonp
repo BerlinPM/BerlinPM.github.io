@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.397455",
+               "52.532392"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "<b>Xi-Mian</b> : Invalidenstr. 159 : Mitte<br>\n* 2026-03-26 : 6<br>\n<b>Djimalaya</b> : Invalidenstr. 159 : Mitte<br>\n* 2016-11-30 : 10"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.38736",
                "52.52849"
             ],
@@ -923,20 +937,6 @@ geoJsonResponse({
          "properties" : {
             "cat" : "X",
             "name" : "<b>Caf\u00e9 Orange</b> : Oranienburger Str. 32 : Mitte<br>\n* 2017-01-25 : 9<br>\n* 2002-09-25 : N/A<br>\n* 2002-02-?? : N/A"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.397455",
-               "52.532392"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "<b>Djimalaya</b> : Invalidenstr. 159 : Mitte<br>\n* 2016-11-30 : 10"
          },
          "type" : "Feature"
       },
