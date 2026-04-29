@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.459880",
+               "52.509132"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "<b>Hannibal</b> : G\u00e4rtnerstr. 29a : Friedrichshain<br>\n* 2026-04-29 : 6"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.397455",
                "52.532392"
             ],
