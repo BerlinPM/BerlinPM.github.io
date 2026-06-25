@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.348528",
+               "52.525021"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "<b>Biergarten am Kleinen Tiergarten</b> : Alt-Moabit 25 : Moabit<br>\n* 2026-06-24 : 5"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.367068",
                "52.521293"
             ],
