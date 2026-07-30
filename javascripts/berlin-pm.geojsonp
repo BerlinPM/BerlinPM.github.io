@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.355967",
+               "52.460662"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "<b>S\u00dcDEN Gartenwirtschaft</b> : Priesterweg 10 : Sch\u00f6neberg<br>\n* 2026-07-29 : 5"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.348528",
                "52.525021"
             ],
