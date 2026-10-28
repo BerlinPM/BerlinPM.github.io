@@ -5,6 +5,20 @@ geoJsonResponse({
       {
          "geometry" : {
             "coordinates" : [
+               "13.407066",
+               "52.523550"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "<b>Tuans H\u00fctte</b> : Dircksenstr. 40 : Mitte<br>\n* 2026-10-28 : 7"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
                "13.336045",
                "52.511182"
             ],
